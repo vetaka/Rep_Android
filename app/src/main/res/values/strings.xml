@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="task">Имя</string>
+    <string name="stark">Отметьте важность контакта звездочкой</string>
+    <string name="On_toggle">Внести в группу</string>
+    <string name="Off_toggle">Удалить</string>
+    <string name="TextName">ФИО</string>
+    <string name="Phone">Телефон:</string>
+    <string name="EmailAddress">e-mail</string>
+    <string name="DataOfContact">Введите данные контакта</string>
+    <string name="TextPhone">Телефон:</string>
+    <string name="e_mail">e-mail:</string>
+    <string name="FIO">ФИО:</string>
+    <string name="Birthday">Дата рождения:</string>
+</resources>
