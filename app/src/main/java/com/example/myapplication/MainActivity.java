@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.widget.ToggleButton;
 
 
+
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -13,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ToggleButton toggleButton = findViewById(R.id.toggleButton);
-        toggleButton.setOnClickListener(view -> setContentView(R.layout.activity_2));
+        toggleButton.setOnClickListener(v -> setContentView(R.layout.activity_2));
 
     }
 }

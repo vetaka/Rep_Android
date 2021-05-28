@@ -12,4 +12,6 @@
     <string name="e_mail">e-mail:</string>
     <string name="FIO">ФИО:</string>
     <string name="Birthday">Дата рождения:</string>
+    <string name="OK">OK</string>
+    <string name="name">Имя</string>
 </resources>
