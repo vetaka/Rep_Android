@@ -2,6 +2,8 @@
 
 <resources>
     <dimen name="margin">8dp</dimen>
-    <dimen name="textSize">30sp</dimen>
+    <dimen name="textSize">40sp</dimen>
+    <dimen name="textSize_2">16sp</dimen>
     <dimen name="padding">10dp</dimen>
+    <dimen name="height_button">100dp</dimen>
 </resources>
