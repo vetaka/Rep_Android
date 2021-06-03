@@ -7,7 +7,10 @@
         <item name="colorAccent">#ff6090</item>
     </style>
 
-    <style name="AppThemeDark" parent="Theme.MaterialComponents">
+    <style name="AppThemeDark" parent="ThemeOverlay.MaterialComponents.Dark">
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryDark">#673AB7</item>
+        <item name="colorAccent">#B864C6</item>
     </style>
 
 </resources>

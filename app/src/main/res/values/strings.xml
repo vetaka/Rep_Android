@@ -25,5 +25,6 @@
     <string name="material_light">Material light</string>
     <string name="material_light_action_bar_dark">Material light action bar dark</string>
     <string name="material_dark">Material dark</string>
+    <string name="change_theme">Поменять тему</string>
 
 </resources>
