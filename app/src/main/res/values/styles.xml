@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppThemeLight" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">#e91e63</item>
+        <item name="colorPrimaryDark">#b0003a</item>
+        <item name="colorAccent">#ff6090</item>
+    </style>
+
+    <style name="AppThemeDark" parent="ThemeOverlay.MaterialComponents.Dark">
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryDark">#673AB7</item>
+        <item name="colorAccent">#B864C6</item>
+    </style>
+
+</resources>
